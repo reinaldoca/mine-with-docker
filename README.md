@@ -169,13 +169,11 @@ You can follow me on Twitter [@alexellisuk](https://twitter.com/alexellisuk) or 
 
 Donate via:
 
-* BTC: 1M2KME8VBx24RsU3Ed2dEkF9EFghn3jR2o
-* Bitcoin Cash: 1M2KME8VBx24RsU3Ed2dEkF9EFghn3jR2o
-* ETH: 0x0D0c7108AD4180486E03B4Fc44AD794a209eCb37
-* LTC: LTt4VGXJMXALgzyjw6zACRxigNADaDYNH9
+* BTC: x
+* Bitcoin Cash: x
+* ETH: x
+* LTC: x
 
 ## License
 
 MIT
-
-Copyright Alex Ellis 2017-2018
